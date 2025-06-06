@@ -96,4 +96,4 @@
 - 产品大类（`first_cate_code`）
 - 产品细类（`second_cate_code`）
 
-飞书链接：https://ij4o91ixag.feishu.cn/file/FQZSbEVlMoBIEBx6Q4ecyBtenYb?from=from_copylink 
+
